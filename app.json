@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "bfinance",
+    "slug": "bfinance",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
